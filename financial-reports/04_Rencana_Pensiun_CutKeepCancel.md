@@ -1,5 +1,5 @@
 # Rencana Cut / Keep / Cancel — Persiapan Pensiun Juli 2027
-**SUWANDHY PRAHARTO** | Dipersiapkan: 28 Mei 2026 | Target: Bebas Hutang & Bebas Biaya Tidak Perlu
+**SUWANDHY PRAHARTO** | Diperbarui: 7 Juni 2026 | Target: Bebas Hutang & Bebas Biaya Tidak Perlu
 
 ---
 
@@ -7,13 +7,13 @@
 
 | Kategori | Jumlah Item | Potensi Hemat/Bulan |
 |---|---|---|
-| 🔴 CANCEL segera | 5 layanan | **Rp 4.291.094** |
+| 🔴 CANCEL segera | 3 layanan | **Rp 3.538.099** |
 | 🟠 REDUCE / downgrade | 3 layanan | **Rp 513.495** |
-| 🔴 TUTUP kartu | 6 kartu | **Rp 437.500** (biaya BSI) |
-| 🟢 KEEP | 10 layanan | — |
-| **TOTAL POTENSI HEMAT** | | **Rp 4.804.589/bulan** |
+| 🔴 TUTUP kartu | 7 kartu (3 sudah tutup) | **Rp 437.500** (biaya BSI) |
+| 🟢 KEEP | 12 layanan | — |
+| **TOTAL POTENSI HEMAT** | | **Rp 4.051.594/bulan** |
 
-> Jika semua tindakan dilaksanakan: **Rp 57.655.068 dihemat dalam 12 bulan** — setara percepatan pelunasan hutang 3–4 bulan lebih awal.
+> Jika semua tindakan dilaksanakan: **Rp 48.619.128 dihemat dalam 12 bulan** — setara percepatan pelunasan hutang 2–3 bulan lebih awal.
 
 ---
 
@@ -24,103 +24,92 @@
 #### 1. Google Transkriptor — Rp 2.208.900/bulan
 - **Kartu:** BNI Lotte Mart 2256
 - **Tagihan:** USD 120+/tahun ≈ Rp 26.506.800/tahun
-- **Alasan Cancel:** Ini adalah pengeluaran digital terbesar ketiga setelah cicilan dan asuransi. Jika tidak digunakan setiap hari secara produktif, ini adalah pemborosan terbesar.
+- **Alasan Cancel:** Pengeluaran digital terbesar. Jika tidak digunakan setiap hari secara produktif, ini pemborosan terbesar dalam anggaran.
 - **Alternatif gratis:** Google Meet auto-caption, Otter.ai (tier gratis), atau manual transkripsi.
-- **Cara cancel:** Login ke akun Google Transkriptor → Billing → Cancel Subscription
-- **Deadline:** Sebelum tanggal penagihan berikutnya (pantau BNI Lotte 2256)
+- **Cara cancel:** Login ke akun Google Transkriptor → Billing → Cancel Subscription (atau via Google Play / App Store)
+- **Deadline:** Sebelum tanggal penagihan berikutnya (~tgl 1–3 tiap bulan)
 - **Potensi Hemat:** Rp 2.208.900/bulan
 
 ---
 
 #### 2. Paddle.net ChajuN — Rp 780.199/bulan
-- **Kartu:** BNI Lotte Mart 2256
+- **Kartu:** Bank Mega 6566
 - **Tagihan:** GBP £43,29/bulan ≈ Rp 9.362.388/tahun
-- **Alasan Cancel:** Layanan tidak teridentifikasi dengan jelas. Transaksi dari London, kemungkinan SaaS B2B. Jika tidak aktif digunakan, batalkan segera.
-- **Cara cancel:** Cek email konfirmasi dari Paddle.net → akses portal billing Paddle → cancel
-- **⚠️ Aksi pertama:** Identifikasi dulu layanan apa ini sebelum cancel (cek email receipt dari Paddle.net)
+- **Alasan Cancel:** Identifikasi dulu layanan ini sebelum cancel (cek email receipt dari Paddle.net/ChajuN). Jika tidak aktif digunakan, batalkan segera.
+- **Cara cancel:** Cek email konfirmasi → akses portal billing Paddle → cancel subscription
 - **Potensi Hemat:** Rp 780.199/bulan
 
 ---
 
 #### 3. HBOMax / Max — Rp 549.000/bulan
-- **Kartu:** CIMB Visa Travel 5022
 - **Tagihan:** SGD billing ≈ Rp 6.588.000/tahun
-- **Alasan Cancel:** Dengan Netflix sudah ada (Rp 186.000/bulan), dua layanan streaming premium adalah duplikasi. Pilih satu.
-- **Rekomendasi:** Pertahankan Netflix (lebih murah, konten Indonesia lebih luas). Cancel HBOMax.
-- **Cara cancel:** Login ke Max.com atau via browser → Account → Cancel Membership
+- **Catatan:** Sebelumnya ditagih ke CIMB Visa 5022 yang kini sudah ditutup. Cek apakah langganan masih aktif dan kartu mana yang ditagih sekarang.
+- **Alasan Cancel:** Netflix (Rp 186.000/bln) sudah cukup untuk streaming. Dua layanan premium adalah duplikasi.
+- **Cara cancel:** Login ke Max.com atau aplikasi Max → Account → Cancel Membership
 - **Potensi Hemat:** Rp 549.000/bulan
-
----
-
-#### 4. Kartu Mega 2485 — Biaya Tersembunyi
-- **Biaya bulanan:** E-billing Rp 5.000 + Notifikasi Rp 10.000 + Credit Shield Rp 15.341 + Bunga = ~Rp 76.136/bulan
-- **Alasan:** Kartu duplikasi — sudah ada Mega 6566. Saldo sudah nol setelah dibayar Juni 2026.
-- **Tindakan:** Tutup kartu 2485 setelah konfirmasi saldo nol.
-- **Potensi Hemat:** ~Rp 76.136/bulan
-
----
-
-#### 5. BNI Visa 8379 — Kartu Tidak Aktif
-- **Biaya:** E-billing + notifikasi + biaya kartu = ~Rp 25.000/bulan
-- **Tagihan terkini:** Rp 11.621 (hampir nol)
-- **Tindakan:** Lunasi penuh Juni 2026 → Tutup kartu
-- **Potensi Hemat:** ~Rp 25.000/bulan
 
 ---
 
 ### 🟠 REDUCE / DOWNGRADE
 
-#### 6. Google ONE — Rp 342.990/bulan → turunkan paket
+#### 4. Google ONE — Rp 342.990/bulan → turunkan paket
 - **Kartu:** BNI Lotte Mart 2256
-- **Tagihan:** ~USD 20/bulan (paket 2TB?)
-- **Rekomendasi:** Turunkan ke paket 100GB (USD 1,99/bulan ≈ Rp 35.000) atau Basic 200GB (USD 2,99/bulan ≈ Rp 55.000)
+- **Tagihan:** ~USD 20/bulan (paket 2TB)
+- **Rekomendasi:** Turunkan ke 100GB (USD 1,99 ≈ Rp 35.000) atau Basic 200GB (USD 2,99 ≈ Rp 55.000)
 - **Potensi Hemat:** Rp 285.000–305.000/bulan
 
 ---
 
-#### 7. YouTube Premium — Kemungkinan Duplikat
+#### 5. YouTube Premium — Kemungkinan Duplikat
 - **Kartu 1:** Bank Mega 6566 — Rp 154.290/bulan
-- **Kartu 2:** BNI Lotte 2256 — ~Rp 144.000/bulan (multiple kecil)
-- **⚠️ Aksi:** Verifikasi apakah ini 2 akun berbeda atau satu akun yang ditagih dua kali.
-  - Cek: myaccount.google.com → Payments & Subscriptions
-  - Jika duplikat: cancel satu → hemat Rp 144.000–154.290/bulan
+- **Kartu 2:** BNI Lotte 2256 — ~Rp 44.000–55.500/bulan
+- **⚠️ Aksi:** Verifikasi di myaccount.google.com → Payments & Subscriptions. Jika duplikat: cancel satu.
+- **Potensi Hemat:** Rp 144.000–154.290/bulan
 
 ---
 
-#### 8. Huawei Mobile Services — Rp 123.399/bulan
+#### 6. Huawei Mobile Services — Rp 123.399/bulan
 - **Kartu:** Mandiri 3517
 - **Tagihan:** 2 transaksi Huawei HK (Rp 65.399 + Rp 58.000)
-- **Review:** Apakah keduanya diperlukan? Mungkin bisa dikonsolidasi ke satu layanan.
-- **Potensi Hemat:** Rp 58.000–65.399/bulan jika satu bisa dibatalkan
+- **Review:** Apakah keduanya diperlukan? Konsolidasi ke satu layanan jika memungkinkan.
+- **Potensi Hemat:** Rp 58.000–65.399/bulan
 
 ---
 
 ### 🟢 KEEP (Pertahankan)
 
-| Layanan | Biaya/Bulan | Kartu | Alasan Keep |
-|---|---|---|---|
-| Claude.ai (Anthropic) | Rp 350.737 | Mega 6566 | Tools kerja AI utama — produktivitas tinggi |
-| Adobe Creative Cloud | Rp 214.008 | Mandiri 3517 | Tools kerja kreatif — profesional |
-| Perplexity AI | Rp 87.553 | Mandiri 3517 | AI research assistant — produktivitas |
-| Netflix | Rp 186.000 | BNI Lotte 2256 | Hiburan keluarga — pertahankan satu streaming |
-| Microsoft 365 | Rp 31.999 | BCA | Office produktivitas — wajib |
-| Google DevCheck | Rp 87.690 | Mandiri 3517 | One-time atau review tahunan |
-| Apple iTunes/App Store | Rp 49.000 | BCA | Ekosistem Apple — review satu per satu |
+| Layanan | Biaya | Frekuensi | Kartu | Alasan Keep |
+|---|---|---|---|---|
+| **Microsoft 365 Family** | Rp 1.699.999 | **TAHUNAN** | BCA 5020 | 6 pengguna = Rp 283.333/orang/tahun. Sangat cost-effective. Next renewal: Mei 2027. |
+| Microsoft OneDrive extra 200GB | Rp 31.999 | Bulanan | BCA 5020 | Extra storage — bersihkan OneDrive (97% penuh!) agar bisa downgrade nantinya |
+| Claude.ai (Anthropic) | Rp 350.737 | Bulanan | Mega 6566 | Tools kerja AI utama |
+| Adobe Creative Cloud | Rp 214.008 | Bulanan | Mandiri 3517 | Tools kerja kreatif |
+| Perplexity AI | Rp 87.553 | Bulanan | Mandiri 3517 | AI research assistant |
+| Netflix | Rp 186.000 | Bulanan | **BCA 6319** | Streaming — pertahankan satu layanan |
+| Apple iTunes/App Store | Rp 49.000 | Bulanan | BCA 6319 | Ekosistem Apple |
+| MyRepublic Internet (4 lokasi) | Rp 2.245.000 | Bulanan | BCA 0815 | Utilitas esensial. Pertimbangkan tutup 1 lokasi yang tidak aktif |
+| PLN Autopay | Rp 2.042.498 | Bulanan | BCA 0815 | Utilitas wajib |
+| Telkomsel (5 nomor) | ~Rp 570.540 | Bulanan | BCA 0815 | Utilitas wajib |
+| Telkom | Rp 44.236 | Bulanan | BCA 0815 | Utilitas wajib |
+| Manulife Insurance RTA | Rp 3.221.800 | Bulanan | BSI → pindah | Asuransi jiwa — konsultasi agen sebelum ubah |
 
 ---
 
 ## BAGIAN 2: KARTU KREDIT
 
-### 🔴 TUTUP KARTU (setelah saldo = 0)
+### 🔴 TUTUP KARTU
 
-| # | Kartu | Target Lunas | Alasan Tutup | Hemat Biaya |
-|---|---|---|---|---|
-| 1 | **BSI Hasanah 6634** | Sep 2026 | Biaya bulanan Rp 437.500 = Rp 5.250.000/tahun! Tidak sebanding manfaat. | Rp 437.500/bln |
-| 2 | **Bank Mega 2485** | Jun 2026 | Duplikasi dengan Mega 6566. Saldo nol setelah Jun 2026. | ~Rp 76.000/bln |
-| 3 | **BNI Visa 8379** | Jun 2026 | Hampir tidak aktif (Rp 11.621). Biaya kartu lebih besar dari manfaat. | ~Rp 25.000/bln |
-| 4 | **BNI Lotte Mart 2256** | Nov 2026 | Lotte Mart tutup banyak lokasi. Manfaat co-brand berkurang. | Rp 30.000/bln (fee) |
-| 5 | **CIMB Syariah 6174** | Jul 2026 | Saldo hampir nol. Sudah ada CIMB konvensional 3 kartu. | Minimal |
-| 6 | **CIMB Visa Travel 5022** | Jun 2026 | CIMB sendiri sudah mengirim notifikasi penggantian ke Mastercard. Kartu akan dinonaktifkan. | — |
+| # | Kartu | Status | Target Tutup | Alasan | Hemat Biaya |
+|---|---|---|---|---|---|
+| 1 | **CIMB Visa Travel 5022** | 🔒 **SUDAH DITUTUP Jun 2026** | — | Lunas penuh, CIMB ganti ke Mastercard | — |
+| 2 | **BNI Visa 8379** | 🔒 **SUDAH DITUTUP Jun 2026** | — | Saldo nol, kartu tidak aktif | — |
+| 3 | **Bank Mega 2485** | ⏳ Lunasi Jun 2026 | Jun 2026 | Duplikasi dengan Mega 6566. Tutup segera setelah lunas. | ~Rp 76.000/bln |
+| 4 | **CIMB Syariah 6174** | ⏳ Lunas Jul 2026 | Jul 2026 | Saldo hampir nol. Sudah ada CIMB konvensional. | Minimal |
+| 5 | **BSI Hasanah 6634** | ⏳ Lunas Sep 2026 | **Sep 2026** | Biaya Rp 437.500/bln = Rp 5.250.000/tahun! | **Rp 437.500/bln** |
+| 6 | **BNI Lotte Mart 2256** | ⏳ Lunas Nov 2026 | Nov 2026 | Lotte Mart banyak yang tutup. Manfaat berkurang. | Rp 30.000/bln |
+| 7 | **BNI MC Titanium 0493** | ⏳ Lunas Jan 2027 | Jan 2027 | Saldo besar saat ini. Tutup setelah lunas. | — |
+
+> **⚠️ PENTING untuk BSI:** Pindahkan Manulife RTA (Rp 3.221.800/bln) ke BCA 0815 atau Mandiri 3517 minimal 1 bulan sebelum menutup BSI. Hubungi agen Manulife untuk proses pemindahan.
 
 ---
 
@@ -128,22 +117,21 @@
 
 | # | Kartu | Alasan Keep | Fungsi Utama |
 |---|---|---|---|
-| 1 | **BCA** | Autopay PLN, Telkom, Telkomsel. Limit besar. | Utilitas + cicilan 0% |
-| 2 | **CIMB Niaga MC Accor 0407** | Limit tertinggi Rp 90M. Cashback Accor Hotels. | Travel + darurat |
-| 3 | **Mandiri Platinum 3517** | Jaringan ATM terluas Indonesia. Livin' poin. | Belanja harian + ATM |
-| 4 | **DBS digibank 3099** | Cashback SPBU BP. Limit Rp 12.5M cukup untuk daily use. | SPBU + daily spend |
-| 5 | **Bank Mega 6566** | Limit Rp 122M besar. Claude.ai & YouTube. | Langganan digital |
+| 1 | **BCA** (semua sub-kartu) | Autopay PLN, Telkom, Telkomsel, MyRepublic. KrisFlyer miles. Cicilan 0% promo. | Utilitas + investasi poin |
+| 2 | **CIMB Niaga MC Accor 0407** | Limit Rp 90 juta. Accor Hotel points. Cashback travel. | Travel + darurat |
+| 3 | **Mandiri Platinum 3517** | ATM terluas Indonesia. Livin' poin. Adobe CC & Perplexity AI. | Belanja + ATM |
+| 4 | **DBS digibank 3099** | Cashback SPBU BP. Biaya kartu rendah. | SPBU + daily spend |
+| 5 | **Bank Mega 6566** | Limit Rp 122 juta. Claude.ai & YouTube tagih di sini. | Langganan digital |
 
-> **Setelah pensiun:** Pertahankan maksimal 3 kartu aktif (BCA, CIMB 0407, DBS). Dua lainnya bisa dipertimbangkan tutup untuk menyederhanakan keuangan.
+> **Setelah pensiun Juli 2027:** Pertahankan BCA, CIMB 0407, dan DBS sebagai kartu utama. Mandiri dan Mega 6566 bisa dipertimbangkan ulang sesuai kebutuhan.
 
 ---
 
-### 🟠 REVIEW KARTU (keputusan setelah evaluasi)
+### 🟠 REVIEW KARTU
 
 | Kartu | Pertimbangan |
 |---|---|
-| **BNI MC Titanium 0493** | Saldo besar saat ini (Rp 15M+). Tutup setelah lunas (~Jan 2027) karena Perisai Plus mahal dan sudah ada Mandiri. |
-| **CIMB MC Platinum 5614** | Saldo besar karena CashPlus. Tutup setelah lunas (~Mar 2027). Limit bisa dipindah ke 0407. |
+| **CIMB MC Platinum 5614** | Saldo besar karena CashPlus. Tutup setelah lunas (~Mar 2027). Limit bisa dialihkan ke 0407. |
 
 ---
 
@@ -154,85 +142,84 @@
 #### Manulife Insurance RTA via BSI 6634 — Rp 3.221.800/bulan (2 polis!)
 - **Tagihan:** MANULIFE INSURANCE-RTA Rp 2.540.200 + Rp 681.600 = **Rp 3.221.800/bulan**
 - **Total tahunan:** Rp 38.661.600/tahun
-- **⚠️ Penting:** Ini adalah ASURANSI, bukan langganan digital. **Jangan batalkan tanpa konsultasi agen asuransi.**
+- **⚠️ JANGAN dibatalkan tanpa konsultasi agen asuransi.** Ini asuransi jiwa, bukan langganan digital.
 - **Tindakan yang direkomendasikan:**
-  1. Hubungi Manulife: cek apakah kedua polis masih dibutuhkan
-  2. Tanyakan: apakah ada polis yang bisa dipindah ke auto-debit rekening (bukan kartu kredit) untuk menghindari bunga
-  3. Setelah tutup BSI 6634, polis Manulife HARUS dipindah ke kartu/rekening lain agar tidak lapse
+  1. Hubungi agen Manulife — verifikasi kedua polis masih dibutuhkan
+  2. **Pindahkan metode pembayaran dari BSI ke BCA atau rekening tabungan** sebelum BSI ditutup Sep 2026
+  3. Tanya apakah bisa dikonsolidasi ke auto-debit rekening (bukan kartu kredit) untuk menghindari bunga jika terlambat bayar
 
-#### Credit Protector / Credit Shield / Perisai Plus
-Produk-produk ini membayar minimum tagihan kartu jika Anda meninggal/cacat. Setelah bebas hutang, **semua produk ini tidak lagi diperlukan**.
+#### Credit Protector / Credit Shield / Perisai Plus — Batalkan setelah kartu lunas
 
-| Produk | Biaya/Bulan | Kartu |
-|---|---|---|
-| CIMB Credit Protector 0407 | Rp 241.057 | CIMB 0407 |
-| CIMB Credit Protector 5614 | Rp 205.629 | CIMB 5614 |
-| CIMB Credit Protector 5022 | Rp 13.728 | CIMB 5022 |
-| CIMB Syariah Credit Protector | Rp 3.865 | CIMB 6174 |
-| BNI Perisai Plus 0493 | Rp 169.953 | BNI 0493 |
-| BNI Perisai Plus 2256 | Rp 34.538 | BNI 2256 |
-| Mega Credit Shield 6566 | Rp 58.149 | Mega 6566 |
-| Mega Credit Shield 2485 | Rp 15.341 | Mega 2485 |
-| Mandiri Protection Plus | Rp 136.151 | Mandiri 3517 |
-| **Total** | **Rp 878.411/bulan** | |
+Produk-produk ini membayar minimum tagihan kartu jika meninggal/cacat. **Setelah kartu lunas dan ditutup, semua produk ini tidak diperlukan lagi.**
 
-> **Rekomendasi:** Batalkan semua Credit Protector/Shield/Perisai Plus satu per satu. Hubungi call center masing-masing bank. Penghematan Rp 878.411/bulan = Rp 10.540.932/tahun jika semua dibatalkan. Pertimbangkan asuransi jiwa/kesehatan terpisah yang lebih komprehensif.
+| Produk | Biaya/Bulan | Kartu | Target Batalkan |
+|---|---|---|---|
+| CIMB Credit Protector 0407 | Rp 241.057 | CIMB 0407 | Saat tutup kartu (Apr 2027) atau lebih awal |
+| CIMB Credit Protector 5614 | Rp 205.629 | CIMB 5614 | Saat tutup kartu (Mar 2027) |
+| CIMB Syariah Credit Protector | Rp 3.865 | CIMB 6174 | Jul 2026 (saat kartu ditutup) |
+| BNI Perisai Plus 0493 | Rp 169.953 | BNI 0493 | Jan 2027 (saat kartu ditutup) |
+| BNI Perisai Plus 2256 | Rp 34.538 | BNI 2256 | Nov 2026 (saat kartu ditutup) |
+| Mega Credit Shield 6566 | Rp 58.149 | Mega 6566 | Okt 2026 |
+| Mega Credit Shield 2485 | Rp 15.341 | Mega 2485 | Otomatis berhenti saat tutup Jun 2026 |
+| Mandiri Protection Plus | Rp 136.151 | Mandiri 3517 | Okt 2026 |
+| **Total** | **Rp 864.683/bulan** | | |
+
+> Batalkan secara bertahap mulai Oktober 2026. Hubungi call center masing-masing bank. Hemat Rp 864.683/bln = Rp 10.376.196/tahun.
 
 ---
 
-## BAGIAN 4: AUTOPAY TIDAK TERIDENTIFIKASI
+## BAGIAN 4: INTERNET & UTILITAS
 
-### ⚠️ Verifikasi Wajib ke BCA
+### MyRepublic Internet — 4 Lokasi (Teridentifikasi)
 
-| Kode | Jumlah/Bulan | Status |
+| Kode AutoPay | Jumlah/Bulan | Status |
 |---|---|---|
-| AUTOPAY-1350537 | Rp 555.000 | Tidak diketahui |
-| AUTOPAY-1165204 | Rp 580.000 | Tidak diketahui |
-| AUTOPAY-1352456 | Rp 555.000 | Tidak diketahui |
-| AUTOPAY-1265806 | Rp 555.000 | Tidak diketahui |
+| AUTOPAY-1350537 | Rp 555.000 | ✅ MyRepublic — lokasi 1 |
+| AUTOPAY-1165204 | Rp 580.000 | ✅ MyRepublic — lokasi 2 (paket lebih mahal) |
+| AUTOPAY-1352456 | Rp 555.000 | ✅ MyRepublic — lokasi 3 |
+| AUTOPAY-1265806 | Rp 555.000 | ✅ MyRepublic — lokasi 4 |
 | **Total** | **Rp 2.245.000** | |
 
-**Cara verifikasi:**
-1. Login KlikBCA atau BCA Mobile
-2. Lihat riwayat transaksi kartu kredit BCA
-3. Klik detail setiap transaksi "AUTOPAY-XXXXXXX"
-4. Atau hubungi Halo BCA 1500888 dengan nomor referensi tersebut
+**Rekomendasi:** Tinjau apakah ke-4 lokasi semuanya masih aktif digunakan. Jika ada lokasi yang sudah tidak diperlukan, tutup satu kontrak MyRepublic → hemat Rp 555.000–580.000/bln.
 
 ---
 
 ## Roadmap Implementasi
 
 ```
-JUNI 2026 (Mulai Sekarang):
-├── Cancel Google Transkriptor             → hemat Rp 2.208.900/bln
-├── Identifikasi & cancel Paddle.net ChajuN → hemat Rp 780.199/bln
-├── Tutup Mega 2485 (saldo = 0 Jun)
-├── Tutup BNI Visa 8379 (saldo = 0 Jun)
-├── Tutup CIMB Visa 5022 (saldo = 0 Jun + CIMB mau nonaktifkan)
-└── Verifikasi 4 Autopay BCA
+JUNI 2026 (Sekarang — 7 Jun):
+├── ❓ Cancel Google Transkriptor (cek status)
+├── ❓ Cancel Paddle.net ChajuN (cek status)
+├── ❓ Cancel HBOMax (cek status & kartu mana sekarang)
+├── 🔒 Tutup Mega 2485 (setelah lunasi penuh)
+├── 🔒 Tutup CIMB Visa 5022 ✅ sudah ditutup
+├── 🔒 Tutup BNI Visa 8379 ✅ sudah ditutup
+└── Verifikasi 4 lokasi MyRepublic — tutup yang tidak aktif
 
 JULI 2026:
 ├── Tutup CIMB Syariah 6174 (lunas Jul)
-└── Downgrade Google ONE ke paket kecil  → hemat Rp 285.000/bln
+└── 🟠 Downgrade Google ONE ke paket kecil
+
+AGUSTUS 2026:
+└── ⚠️ Pindahkan Manulife RTA dari BSI ke kartu/rekening lain
 
 SEPTEMBER 2026:
-├── Tutup BSI Hasanah 6634 (lunas Sep)   → hemat Rp 437.500/bln
-└── Pindah Manulife RTA ke kartu/rekening lain sebelum tutup BSI
+└── Tutup BSI Hasanah 6634 (lunas Sep) → hemat Rp 437.500/bln
 
 OKTOBER 2026:
-└── Batalkan semua Credit Protector/Shield → hemat Rp 878.411/bln
+└── Batalkan Credit Protector: Mandiri, Mega 6566
 
 NOVEMBER 2026:
-└── Tutup BNI Lotte Mart 2256 (lunas Nov)
+└── Tutup BNI Lotte Mart 2256 (lunas Nov) → batalkan Perisai Plus 2256
 
 JANUARI 2027:
-└── Tutup BNI MC Titanium 0493 (lunas Jan)
+└── Tutup BNI MC Titanium 0493 (lunas Jan) → batalkan Perisai Plus 0493
 
 MARET 2027:
-└── Tutup CIMB MC Platinum 5614 (lunas Mar)
+└── Tutup CIMB MC Platinum 5614 (lunas Mar) → batalkan Credit Protector 5614
 
 APRIL 2027 — MODA PENSIUN:
-├── Sisa kartu aktif: BCA, CIMB 0407, Mandiri, DBS, Mega 6566
+├── Sisa kartu aktif (tanpa hutang): BCA, CIMB 0407, Mandiri, DBS, Mega 6566
 ├── Zero hutang kartu kredit
 ├── Total biaya kartu per bulan: < Rp 200.000
 └── Alihkan surplus ke investasi pensiun
@@ -249,10 +236,11 @@ APRIL 2027 — MODA PENSIUN:
 | Cancel HBOMax | Rp 549.000 | Rp 6.588.000 |
 | Downgrade Google ONE | Rp 285.000 | Rp 3.420.000 |
 | Tutup BSI (biaya bulanan) | Rp 437.500 | Rp 3.937.500 |
-| Cancel semua Credit Protector | Rp 878.411 | Rp 10.540.932 |
+| Cancel semua Credit Protector | Rp 864.683 | Rp 10.376.196 |
 | Hapus duplikat YouTube | Rp 144.000 | Rp 1.728.000 |
-| Tutup Mega 2485 + BNI 8379 | Rp 101.136 | Rp 1.213.632 |
-| **TOTAL** | **Rp 5.384.146** | **Rp 63.297.252** |
+| Tutup Mega 2485 | Rp 76.000 | Rp 912.000 |
+| Tutup 1 lokasi MyRepublic (jika tidak aktif) | Rp 555.000 | Rp 6.660.000 |
+| **TOTAL** | **Rp 5.900.282** | **Rp 69.491.384** |
 
 ---
 
