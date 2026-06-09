@@ -1,0 +1,62 @@
+name: Monthly Credit Card Report
+
+on:
+  # Hari ke-1 setiap bulan pukul 01:00 UTC = 08:00 WIB
+  schedule:
+    - cron: '0 1 1 * *'
+  # Bisa juga dijalankan manual dari GitHub Actions tab
+  workflow_dispatch:
+    inputs:
+      year_month:
+        description: 'Bulan target (YYYY-MM). Kosongkan untuk bulan lalu.'
+        required: false
+        default: ''
+
+jobs:
+  generate-report:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # agar bisa git push hasil laporan
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Configure git identity
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Run report generator
+        env:
+          GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
+          PDF_PASS_BCA:        ${{ secrets.PDF_PASS_BCA }}
+          PDF_PASS_DBS:        ${{ secrets.PDF_PASS_DBS }}
+          PDF_PASS_MANDIRI:    ${{ secrets.PDF_PASS_MANDIRI }}
+          PDF_PASS_CIMB:       ${{ secrets.PDF_PASS_CIMB }}
+          PDF_PASS_CIMB_SYARIAH: ${{ secrets.PDF_PASS_CIMB_SYARIAH }}
+          PDF_PASS_BNI:        ${{ secrets.PDF_PASS_BNI }}
+          PDF_PASS_BSI:        ${{ secrets.PDF_PASS_BSI }}
+          PDF_PASS_MEGA:       ${{ secrets.PDF_PASS_MEGA }}
+        working-directory: scripts
+        run: |
+          python main.py "${{ github.event.inputs.year_month }}"
+
+      - name: Upload Excel report as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: laporan-keuangan-${{ github.run_id }}
+          path: financial-reports/*.xlsx
+          retention-days: 90
