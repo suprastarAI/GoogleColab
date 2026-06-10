@@ -38,7 +38,7 @@ ONEDRIVE_ROOT = Path(r"C:\Users\BEELINK\OneDrive\Documents\Credit Card Billings"
 PASSWORDS_FILE = Path.home() / ".kk_passwords.json"
 
 # Aktifkan git push otomatis? (True/False)
-GIT_AUTO_PUSH = False   # Set True setelah git auth dikonfigurasi di PC
+GIT_AUTO_PUSH = True   # Set True setelah git auth dikonfigurasi di PC
 
 # ─── Helpers ───────────────────────────────────────────────────────────────────
 
