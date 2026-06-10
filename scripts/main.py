@@ -38,24 +38,45 @@ ONEDRIVE_ROOT = Path(r"C:\Users\BEELINK\OneDrive\Documents\Credit Card Billings"
 PASSWORDS_FILE = Path.home() / ".kk_passwords.json"
 
 # Aktifkan git push otomatis? (True/False)
-GIT_AUTO_PUSH = True
+GIT_AUTO_PUSH = False   # Set True setelah git auth dikonfigurasi di PC
 
 # ─── Helpers ───────────────────────────────────────────────────────────────────
 
-# Prefix nama file PDF → card_id (sesuaikan dengan prefix di gmail_to_drive.gs)
+# Substring nama file PDF (lowercase) → card_id
+# Urutan penting: yang lebih spesifik di atas (mega-6566 sebelum mega-)
 PDF_FILENAME_PATTERNS = {
-    "bca_":      "bca",
-    "ebilling_bca": "bca",
-    "dbs_":      "dbs_3099",
-    "digibank":  "dbs_3099",
-    "mandiri_":  "mandiri_3517",
-    "cimb_0407": "cimb_0407",
-    "cimb_5614": "cimb_5614",
-    "cimb_6174": "cimb_6174",
-    "bni_0493":  "bni_0493",
-    "bni_2256":  "bni_2256",
-    "bsi_":      "bsi_6634",
-    "mega_":     "mega_6566",
+    # BCA
+    "bca-":          "bca",
+    "bca_":          "bca",
+    "ebilling_bca":  "bca",
+    "ebilling-bca":  "bca",
+    # DBS
+    "dbs-":          "dbs_3099",
+    "dbs_":          "dbs_3099",
+    "digibank":      "dbs_3099",
+    # Mandiri
+    "mandiri-3517":  "mandiri_3517",
+    "mandiri_3517":  "mandiri_3517",
+    "mandiri-":      "mandiri_3517",
+    "mandiri_":      "mandiri_3517",
+    # CIMB
+    "cimb-0407":     "cimb_0407",
+    "cimb_0407":     "cimb_0407",
+    "cimb-5614":     "cimb_5614",
+    "cimb_5614":     "cimb_5614",
+    "cimb-6174":     "cimb_6174",
+    "cimb_6174":     "cimb_6174",
+    # BNI
+    "bni-0493":      "bni_0493",
+    "bni_0493":      "bni_0493",
+    "bni-2256":      "bni_2256",
+    "bni_2256":      "bni_2256",
+    # BSI
+    "bsi-":          "bsi_6634",
+    "bsi_":          "bsi_6634",
+    # Mega — spesifik last4 dulu agar Mega-2485 (kartu lain) tidak salah mapping
+    "mega-6566":     "mega_6566",
+    "mega_6566":     "mega_6566",
 }
 
 
