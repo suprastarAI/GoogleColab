@@ -27,7 +27,7 @@ from report_generator import generate_checklist_md, generate_payment_plan_md, ge
 
 # ─── Konfigurasi path lokal ────────────────────────────────────────────────────
 # Sesuaikan dengan lokasi Google Drive for Desktop di PC Anda
-GDRIVE_ROOT = Path(r"C:\Users\BEELINK\Google Drive")
+GDRIVE_ROOT = Path(r"G:\My Drive")
 
 # Folder output laporan (OneDrive)
 ONEDRIVE_ROOT = Path(r"C:\Users\BEELINK\OneDrive\Documents\Credit Card Billings")
